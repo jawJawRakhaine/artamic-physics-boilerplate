@@ -1,10 +1,10 @@
 # artamic-physics-boilerplate
 # This is Artamic-screen boilerplate using NodeJS
 
-## Clone Repo
+## Clone Repository
 
 ```
-git clone <add Link>
+git clone https://github.com/jawJawRakhaine/artamic-physics-boilerplate
 ```
 
 ## Install Dependncies and
@@ -15,7 +15,7 @@ npm install && sudo npm link
 ```
 
 
-## Now Generate *create-artamic-screen* new project
+## Now Generate *create-artamic-screen* new project and add project name
 
 ## Team: Artamic
 
