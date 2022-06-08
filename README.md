@@ -15,7 +15,12 @@ npm install && sudo npm link
 ```
 
 
-## Now Generate *create-artamic-screen* new project and add project name
+## Now Generate using CLI
+
+
+```
+create-artamic-screen
+```
 
 ## Team: Artamic
 
